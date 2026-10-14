@@ -68,95 +68,99 @@ The global Decision Intelligence and AI decision automation market is valued at 
 
 ## Open-Source GitHub Projects
 
+- **[Laya](https://github.com/NandhaKishorM/laya)** [![Stars](https://img.shields.io/github/stars/NandhaKishorM/laya?style=social&color=white)](https://github.com/NandhaKishorM/laya/stargazers)  
+  Non-autoregressive System 1 decision engine. Delivers typed `Choice`, `Score`, and yes/no decisions over text in a single forward pass across 100+ languages, routing requests to optimal checkpoints.
 
+- **[DoWhy](https://github.com/py-why/dowhy)** [![Stars](https://img.shields.io/github/stars/py-why/dowhy?style=social&color=white)](https://github.com/py-why/dowhy/stargazers)  
+  Leading Python causal inference library supporting explicit modeling, identification, and refutation of causal assumptions by combining graphical causal models and potential outcomes frameworks.
 
-- **[Ordo](https://github.com/Pama-Lee/Ordo)**  
+- **[Drools](https://github.com/apache/incubator-kie-drools)** [![Stars](https://img.shields.io/github/stars/apache/incubator-kie-drools?style=social&color=white)](https://github.com/apache/incubator-kie-drools/stargazers)  
+  Industry standard open-source business rules management system (BRMS), forward/backward chaining inference engine (PHREAK algorithm), and DMN runtime under Apache Software Foundation.
 
-  Open-source decision platform built in Rust — author, test, and govern business rules at scale. Features **platform workspace** (organizations, projects, server fleets, release center), **Studio** (visual flow editor, decision table editor, trace-driven testing, version history), and **Engine** (sub-microsecond rule execution, JIT-compiled, runs everywhere via HTTP, gRPC, WASM, CLI). Claims 1.63 µs interpreter, 50–80 ns JIT (Cranelift), 54k QPS HTTP single-thread. Docker Compose for full stack .
+- **[Semantic Router](https://github.com/vllm-project/semantic-router)** [![Stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=social&color=white)](https://github.com/vllm-project/semantic-router/stargazers)  
+  Open, super-fast decision and routing layer for LLMs and agentic workflows, executing deterministic decisions at the semantic embedding layer.
 
+- **[CausalML (Uber)](https://github.com/uber/causalml)** [![Stars](https://img.shields.io/github/stars/uber/causalml?style=social&color=white)](https://github.com/uber/causalml/stargazers)  
+  Uplift modeling and causal inference with machine learning algorithms developed by Uber, estimating individual and conditional average treatment effects for commercial decisions.
 
+- **[QLExpress](https://github.com/alibaba/QLExpress)** [![Stars](https://img.shields.io/github/stars/alibaba/QLExpress?style=social&color=white)](https://github.com/alibaba/QLExpress/stargazers)  
+  High-performance, dynamic business rule and script evaluation engine by Alibaba, widely adopted for enterprise decision automation and complex conditional workflows.
+
+- **[EconML](https://github.com/microsoft/EconML)** [![Stars](https://img.shields.io/github/stars/microsoft/EconML?style=social&color=white)](https://github.com/microsoft/EconML/stargazers)  
+  Microsoft Research causal ML library combining state-of-the-art machine learning with econometrics (Double ML, Causal Forests) to measure heterogeneous treatment effects.
+
+- **[RulesEngine](https://github.com/microsoft/RulesEngine)** [![Stars](https://img.shields.io/github/stars/microsoft/RulesEngine?style=social&color=white)](https://github.com/microsoft/RulesEngine/stargazers)  
+  Microsoft's lightweight rule engine library for abstracting business logic from core application code using declarative JSON/expression syntax.
+
+- **[json-rules-engine](https://github.com/CacheControl/json-rules-engine)** [![Stars](https://img.shields.io/github/stars/CacheControl/json-rules-engine?style=social&color=white)](https://github.com/CacheControl/json-rules-engine/stargazers)  
+  Rules engine written in JavaScript/TypeScript for evaluating complex business rules composed in declarative JSON definitions.
+
+- **[Ballerine](https://github.com/ballerine-io/ballerine)** [![Stars](https://img.shields.io/github/stars/ballerine-io/ballerine?style=social&color=white)](https://github.com/ballerine-io/ballerine/stargazers)  
+  Open-source risk decisioning engine and data orchestration platform for underwriting, fraud detection, and compliance decisions.
+
+- **[GoRules Zen-Engine](https://github.com/gorules/zen)** [![Stars](https://img.shields.io/github/stars/gorules/zen?style=social&color=white)](https://github.com/gorules/zen/stargazers)  
+  Native, high-performance Business Rules Engine built in Rust with Python, Go, Node.js, and Java bindings; features JSON Decision Model (JDM) graphs and decision tables.
+
+- **[CausalImpact](https://github.com/google/CausalImpact)** [![Stars](https://img.shields.io/github/stars/google/CausalImpact?style=social&color=white)](https://github.com/google/CausalImpact/stargazers)  
+  Google's library for estimating causal effects of designed interventions on time-series data using Bayesian structural time-series models.
+
+- **[Tigramite](https://github.com/jakobrunge/tigramite)** [![Stars](https://img.shields.io/github/stars/jakobrunge/tigramite?style=social&color=white)](https://github.com/jakobrunge/tigramite/stargazers)  
+  High-dimensional time-series causal inference and discovery package based on graphical models and independence testing.
+
+- **[causal-learn](https://github.com/py-why/causal-learn)** [![Stars](https://img.shields.io/github/stars/py-why/causal-learn?style=social&color=white)](https://github.com/py-why/causal-learn/stargazers)  
+  Comprehensive Python library for causal discovery algorithms (PC, FCI, GES, LiNGAM) under the Py-Why umbrella.
+
+- **[RuleGo](https://github.com/rulego/rulego)** [![Stars](https://img.shields.io/github/stars/rulego/rulego?style=social&color=white)](https://github.com/rulego/rulego/stargazers)  
+  Lightweight, high-performance, event-driven rule engine and flow orchestration framework in Go.
+
+- **[CausalDiscoveryToolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)** [![Stars](https://img.shields.io/github/stars/FenTechSolutions/CausalDiscoveryToolbox?style=social&color=white)](https://github.com/FenTechSolutions/CausalDiscoveryToolbox/stargazers)  
+  Python package for causal structure learning, graph discovery, and orientation in observational datasets.
+
+- **[CausalPy](https://github.com/pymc-labs/CausalPy)** [![Stars](https://img.shields.io/github/stars/pymc-labs/CausalPy?style=social&color=white)](https://github.com/pymc-labs/CausalPy/stargazers)  
+  Causal inference for quasi-experimental settings developed by PyMC Labs, supporting synthetic controls, difference-in-differences, and regression discontinuity.
+
+- **[Scikit-uplift](https://github.com/maks-sh/scikit-uplift)** [![Stars](https://img.shields.io/github/stars/maks-sh/scikit-uplift?style=social&color=white)](https://github.com/maks-sh/scikit-uplift/stargazers)  
+  Scikit-learn compliant Python module for uplift modeling and targeted decision optimization.
+
+- **[DoubleML](https://github.com/DoubleML/doubleml-for-py)** [![Stars](https://img.shields.io/github/stars/DoubleML/doubleml-for-py?style=social&color=white)](https://github.com/DoubleML/doubleml-for-py/stargazers)  
+  Double Machine Learning library in Python implementing Chernozhukov et al. methods for valid causal inference with modern ML estimators.
+
+- **[OpenJev](https://github.com/razorback16/openjev)** [![Stars](https://img.shields.io/github/stars/razorback16/openjev?style=social&color=white)](https://github.com/razorback16/openjev/stargazers)  
+  Open-source, Jev-compatible System One decision server fine-tuned on diffusion models for sub-second deterministic decisioning.
+
+- **[Marble](https://github.com/checkmarble/marble)** [![Stars](https://img.shields.io/github/stars/checkmarble/marble?style=social&color=white)](https://github.com/checkmarble/marble/stargazers)  
+  Real-time decision and business rules engine designed specifically for transaction fraud detection and AML compliance.
+
+- **[YLearn](https://github.com/DataCanvasIO/YLearn)** [![Stars](https://img.shields.io/github/stars/DataCanvasIO/YLearn?style=social&color=white)](https://github.com/DataCanvasIO/YLearn/stargazers)  
+  All-in-one causal learning platform supporting causal discovery, effect estimation, and policy recommendation.
+
+- **[Evrete](https://github.com/evrete/evrete)** [![Stars](https://img.shields.io/github/stars/evrete/evrete?style=social&color=white)](https://github.com/evrete/evrete/stargazers)  
+  Modern, lightweight Java forward-chaining rule engine implementation compliant with the RETE algorithm.
+
+- **[OpenDecision](https://github.com/open-decision/open-decision)** [![Stars](https://img.shields.io/github/stars/open-decision/open-decision?style=social&color=white)](https://github.com/open-decision/open-decision/stargazers)  
+  Open-source decision builder and automated reasoning engine for structured decision trees and legal/compliance logic.
+
+- **[Will / Mindot](https://github.com/mindot-ai/will)** [![Stars](https://img.shields.io/github/stars/mindot-ai/will?style=social&color=white)](https://github.com/mindot-ai/will/stargazers)  
+  Cognitive machine architecture and deterministic decision engine for agent systems, featuring multi-criteria evaluation and hierarchical task decomposition.
+
+- **[LogicForge](https://github.com/fx2y/logicforge)** [![Stars](https://img.shields.io/github/stars/fx2y/logicforge?style=social&color=white)](https://github.com/fx2y/logicforge/stargazers)  
+  Declarative rule, DMN, and complex event processing (CEP) engine in Go.
+
+- **[Datacendia Core](https://github.com/datacendia/datacendia-core)** [![Stars](https://img.shields.io/github/stars/datacendia/datacendia-core?style=social&color=white)](https://github.com/datacendia/datacendia-core/stargazers)  
+  AI decision intelligence engine with multi-agent deliberation, consensus protocols, and immutable audit trails.
+
+- **[Ordo](https://github.com/Pama-Lee/Ordo)** [![Stars](https://img.shields.io/github/stars/Pama-Lee/Ordo?style=social&color=white)](https://github.com/Pama-Lee/Ordo/stargazers)  
+  High-performance decision platform written in Rust featuring visual studio, sub-microsecond Cranelift JIT compiler, and DMN execution.
+
+- **[ADI (Agent Decision Intelligence)](https://github.com/dimgouso/adi-Agent-Decision-Intelligence)** [![Stars](https://img.shields.io/github/stars/dimgouso/adi-Agent-Decision-Intelligence)](https://github.com/dimgouso/adi-Agent-Decision-Intelligence/stargazers)  
+  Multi-criteria decision analysis (MCDA) Python library with built-in tool call schemas for OpenAI and Anthropic agent workflows.
 
 - **[IBM Decision Manager Open Edition](https://www.ibm.com/products/business-automation-manager-open-editions/decision-manager)**  
-
-  Open-core, cloud-native decision automation platform using open standards (DMN). Features high-volume rule evaluation, event-driven containerized decision microservices, automatic API generation, and **MCP Server integration** so AI agents can directly consume decision services. Runs on OpenShift and Kubernetes . Related open-source projects at [DecisionsDev](https://github.com/DecisionsDev) .
-
-
-
-- **[MindOT](https://pypi.org/project/mindot/)**  
-
-  Decision engine for agent systems (MIT) providing structured reasoning for complex trade-offs. Features task decomposition (Project → Operation → Job → Task), hierarchical planning, and multiple decision methods including **Bayesian inference**, **MCDA** (multi-criteria decision analysis), **decision trees**, **rule engines**, and **ML evaluation** (AUC, F1, LogLoss) .
+  Open-core, cloud-native DMN decision automation platform running containerized microservices and MCP Server integration. Related community repos available at [DecisionsDev](https://github.com/DecisionsDev).
 
 
 
-- **[OpenDecision](https://pypi.org/project/open-decision-ai/)**  
-
-  Open-source decision engine for LLM workflows. Features `Choice`, `Binary`, and `Score` questions batched into single forward pass. Confidence-aware output with `abstain_threshold` for routing to human review. Python SDK, Docker, and in-process loading. Benchmarks: 0.932 accuracy on CLINC150, 0.923 on Banking77 .
-
-
-
-- **[ADI (Agent Decision Intelligence)](https://github.com/dimgouso/adi-Agent-Decision-Intelligence)**  
-
-  Python library for structured multi-criteria decisions (alpha). Deterministic ranking with weighted criteria, confidence-aware output, explainable decisions (criterion contributions, constraint reports, counterfactual guidance), scenario analysis, and feedback-driven learning. Ships **OpenAI and Anthropic tool schemas** out of the box for agent integration .
-
-
-
-- **[DoWhy](https://github.com/py-why/dowhy)**  
-
-  Leading open-source causal inference library (7,088 GitHub stars). Supports explicit modeling and testing of causal assumptions with unified language combining graphical models and potential outcomes. Python-native causal reasoning foundation .
-
-
-
-- **[EconML](https://github.com/microsoft/EconML)**  
-
-  Microsoft Research's causal ML library for estimating heterogeneous treatment effects. 3,721 GitHub stars. Foundation for uplift modeling and personalized decision-making .
-
-
-
-- **[CausalML (Uber)](https://github.com/uber/causalml)**  
-
-  Uplift modeling and causal inference with machine learning algorithms. 4,951 GitHub stars. Widely used for treatment effect estimation in business contexts .
-
-
-
-- **[causal-learn](https://github.com/py-why/causal-learn)**  
-
-  Causal discovery in Python with independence tests and score functions. Part of the py-why ecosystem alongside DoWhy .
-
-
-
-- **[IBM DecisionsDev](https://github.com/DecisionsDev)**  
-
-  Open-source projects, tools, and samples for IBM decision automation. 66 repositories including Rule Designer, ODM on Kubernetes, and MCP servers for decision intelligence .
-
-
-
-- **[LogicForge](https://github.com/)**  
-
-  Simplified system for defining, executing, and managing business rules and complex events declaratively. Provides rule engine, DMN engine, and CEP (Complex Event Processing) engine .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[DoubleML](https://github.com/DoubleML/doubleml-for-py)** — Double Machine Learning in Python for causal inference with high-dimensional controls .
-
-- **[CausalPy](https://github.com/pymc-labs/CausalPy)** — Causal inference in quasi-experimental settings (synthetic control, difference-in-differences) .
-
-- **[Scikit-uplift](https://github.com/maks-sh/scikit-uplift)** — Uplift modeling in scikit-learn style .
-
-- **[YLearn](https://github.com/DataCanvasIO/YLearn)** — Python package for causal inference and decision optimization .
-
-- **[GoRules Zen-Engine](https://github.com/gorules/zen)** — Decision engine with JDM graphs, decision tables, and expression language .
-
-- **[Datacendia Core](https://github.com/datacendia/datacendia-core)** — Open-source AI decision intelligence engine with multi-agent deliberation and immutable audit trails .
-
-- Community **n8n** workflows for decision automation and rule-triggered actions.
-
-
-
-**Frameworks for building custom systems**: Combine **Ordo** for high-performance rule execution with **DoWhy** or **EconML** for causal inference, **MindOT** for structured multi-criteria reasoning, **OpenDecision** for LLM-integrated decision routing, and **PostgreSQL** for persistence—creating a fully self-hosted, enterprise-grade decision model platform.
+**Frameworks for building custom systems**: Combine **GoRules Zen** or **Drools** for high-performance rule execution with **DoWhy** or **EconML** for causal inference, **Semantic Router** for LLM decision branching, and **PostgreSQL** for persistence—creating a fully self-hosted, enterprise-grade decision model platform.
 
 
 

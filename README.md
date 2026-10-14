@@ -1,55 +1,51 @@
-# Awesome-Artificial-Intelligence-Decision-Model
-# Awesome-Artificial-Intelligence-Decision-Model
+# 🧠 Awesome Artificial Intelligence Decision Models
 
-## Top Artificial Intelligence Decision Model Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Artificial Intelligence Decision Models Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌟 Top Artificial Intelligence Decision Model Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+> **A Curated Directory of Enterprise SaaS Platforms & Open-Source GitHub Projects for Decision Intelligence, Business Rules Automation, System 1 Agent Models & Causal Machine Learning.**  
+> *Last updated: March 2026*
 
-*Focused on Business Rules, Decision Automation & Causal Inference*  
+This repository indexes the cutting edge of **Artificial Intelligence Decision Models** and **Decision Automation Infrastructure**. Designed for decision architects, AI engineers, MLOps practitioners, and enterprise data leaders, this guide tracks systems that encode business logic, automate high-throughput operational choices, and leverage counterfactual causal inference—ensuring decisions are deterministic, auditable, and regulatory-compliant.
 
-**Last updated: March 2026**
+### 🔍 Key Capabilities Covered:
+- **Decision Automation & BRMS**: Rule engines, decision tables, and DMN standards (e.g. Drools, Corticon, InRule, GoRules Zen).
+- **System 1 Agent Decisioning**: Fast, non-autoregressive classification and routing for agentic workflows (e.g. Jev, Laya, Semantic Router).
+- **Causal Machine Learning & Uplift**: Counterfactual reasoning and treatment effect estimation (e.g. DoWhy, EconML, CausalML).
+- **Enterprise Decision Intelligence Platforms**: Full-stack predictive analytics and cognitive automation (e.g. FICO Platform, Pega, DataRobot).
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Artificial Intelligence Decision Models**. These tools enable organizations to encode business logic, automate high-volume decisions, and apply causal reasoning—ensuring every decision is consistent, auditable, and explainable.
-
-
-
-**Examples** include Jev, InRule, DataRobot, Pega, FICO Platform, Decisions, Peak AI, Aera Technology, Progress Corticon, and causaLens (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, rule engines, and open causal ML—ideal for enterprises, data scientists, and developers seeking transparent, vendor-independent decision infrastructure.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 Support](#-support)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global Decision Intelligence and AI decision automation market is valued at approximately **$16B–$21B** (projected to reach $50B+ by the early 2030s with a 15–25% CAGR). The market structure is **moderately fragmented**—anchored by established enterprise giants (such as FICO, Pega, IBM, and Microsoft) for core mission-critical workflows, yet driven by an influx of innovative startups and open-source ecosystems specializing in agentic AI decision layers and causal ML rather than a single winner-take-all monopoly.
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Product | Scale (Revenue / Valuation) | Description | Pricing | Free Tier / Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
@@ -66,7 +62,7 @@ The global Decision Intelligence and AI decision automation market is valued at 
 
 
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 - **[Laya](https://github.com/NandhaKishorM/laya)** [![Stars](https://img.shields.io/github/stars/NandhaKishorM/laya?style=social&color=white)](https://github.com/NandhaKishorM/laya/stargazers)  
   Non-autoregressive System 1 decision engine. Delivers typed `Choice`, `Score`, and yes/no decisions over text in a single forward pass across 100+ languages, routing requests to optimal checkpoints.
@@ -164,40 +160,41 @@ The global Decision Intelligence and AI decision automation market is valued at 
 
 
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model&type=date&legend=top-left)
 
 
 
-1. Fork the repo.
+## 🤝 Support
 
-2. Add/edit entries in `README.md` (follow existing format).
+Thank you for exploring and utilizing the **Awesome Artificial Intelligence Decision Model** ecosystem! 
 
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
+If this curated repository provides value to your projects, engineering architecture, or research, please consider supporting its ongoing maintenance:
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with your fellow engineers, data science teams, and architects.
+- ☕ **Sponsor or buy a coffee**: Support maintenance and continuous research directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 
 
-## Disclaimer
+## 🛠️ How to Contribute
+
+1. 🍴 Fork the repo.
+2. ✍️ Add/edit entries in `README.md` (maintaining existing table and badge formats).
+3. 📝 Include: product/repo name, official link, factual 1–2 sentence description, pricing/scale details, and accurate star count badge for open-source tools.
+4. 🚀 Submit a PR with a concise summary of the changes.
+
+*Star the repo if you find it helpful!*
 
 
+
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
 - Decision models handling business logic must comply with applicable regulations (financial services, healthcare, etc.) and ensure decisions are explainable and auditable.
-
 - Self-hosted open-source solutions require proper security hardening, rule governance, and ongoing maintenance. **Decision logic is business logic**—version control, testing, and approval workflows are essential for production rule engines. Causal inference requires domain expertise to validate assumptions; correlation-based ML is insufficient for counterfactual decisions.
-
-
 
 ---
 
-
-
-**Made for decision architects, data scientists, business rules analysts, and developers building transparent decision intelligence solutions.**  
-
-Let's make Artificial Intelligence Decision Models more open, data-driven, and explainable.
+**Made with ❤️ for decision architects, data scientists, business rules analysts, and developers building transparent decision intelligence solutions.**  
+*Let's make Artificial Intelligence Decision Models more open, data-driven, and explainable.*

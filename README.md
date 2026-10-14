@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Artificial-Intelligence-Decision-Model/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -181,7 +181,7 @@ If this curated repository provides value to your projects, engineering architec
 
 1. 🍴 Fork the repo.
 2. ✍️ Add/edit entries in `README.md` (maintaining existing table and badge formats).
-3. 📝 Include: product/repo name, official link, factual 1–2 sentence description, pricing/scale details, and accurate star count badge for open-source tools.
+3. 📝 Include: product/repo name, official link, factual 1–2 sentence description, pricing/scale details, and accurate Stars_Count badge for open-source tools.
 4. 🚀 Submit a PR with a concise summary of the changes.
 
 *Star the repo if you find it helpful!*

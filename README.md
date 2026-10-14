@@ -43,65 +43,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Jev](https://jev.io/)**  
-
-  AI decision model with `Choice`, `Score`, and `Noul` (probability of truth) primitives. Lightweight, fast, and designed for per-step decisions in agent workflows. Open-weight fine-tunes available including WebJev (Apache-2.0) .
-
-
-
-- **[InRule](https://inrule.com/)**  
-
-  Enterprise decision automation platform with business rules, decision tables, and AI integration. Features rule authoring, testing, and deployment across cloud and on-prem.
-
-
-
-- **[DataRobot](https://www.datarobot.com/)**  
-
-  Enterprise AI platform with unified experience for developing, delivering, and governing predictive and generative AI. Workbench, Registry, and Console for full lifecycle.
-
-
-
-- **[Pega](https://www.pega.com/)**  
-
-  AI-powered decisioning and workflow automation. Features real-time decision management, customer journey orchestration, and predictive analytics.
-
-
-
-- **[FICO Platform](https://www.fico.com/)**  
-
-  Decision management platform with advanced analytics, business rules, and optimization. Widely used in financial services for credit, fraud, and customer decisions.
-
-
-
-- **[Decisions](https://decisions.com/)**  
-
-  No-code workflow, automation, and rules engine. Features decision tables, workflow designer, and integrations for business process automation.
-
-
-
-- **[Peak AI](https://peak.ai/)**  
-
-  AI decision intelligence platform for commercial teams. Features demand forecasting, pricing optimization, and inventory decisions.
-
-
-
-- **[Aera Technology](https://www.aera.io/)**  
-
-  Cognitive automation for enterprise decisions. Features decision intelligence, data harmonization, and autonomous execution across supply chain, finance, and operations.
-
-
-
-- **[Progress Corticon](https://www.progress.com/corticon)**  
-
-  Business rules management system with decision modeling, testing, and deployment. Supports DMN standards and real-time decision services.
-
-
-
-- **[causaLens](https://causalens.com/)**  
-
-  Causal AI platform for decision intelligence. Features causal discovery, counterfactual reasoning, and decision optimization beyond correlation-based ML.
+| Product | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Jev](https://jev.io/)** | AI decision model with `Choice`, `Score`, and `Noul` primitives. Lightweight, fast, per-step decisions in agent workflows. Open-weight fine-tunes available (WebJev). | $0.042 / 1M input tokens (output tokens 100% free; prepaid credit packages start at $5.00) | No permanent free tier; initial access requires waitlist approval or minimum $5 prepaid credit pack |
+| **[InRule](https://inrule.com/)** | Enterprise decision automation platform with business rules, decision tables, and AI integration across cloud and on-prem. | Enterprise licensing starting at ~$4,166/month ($50,000/year billed annually based on server cores and execution volume) | 30-day free trial upon enterprise request; includes irAuthor access and irServer test evaluation |
+| **[DataRobot](https://www.datarobot.com/)** | Enterprise AI lifecycle platform with unified workbench for predictive and generative AI, MLOps, and decision intelligence. | Starting at ~$1,250/month ($15,000/year annual minimum contract scaling by AI units/modeling seats) | 30-day free trial; includes full workbench access, vector DBs, and standard modeling worker quota |
+| **[Pega](https://www.pega.com/)** | AI-powered decisioning and workflow automation with real-time decision management and Customer Decision Hub. | Starting at $90/user/month (standard case management edition, billed annually) | 30-day free trial on Community Edition (self-extendable once for +15 days, total 45-day limit; 1 active instance) |
+| **[FICO Platform](https://www.fico.com/)** | Enterprise decision management platform with advanced analytics, business rules (Blaze Advisor), and mathematical optimization. | Starting at ~$5,000/month ($60,000/year base platform license tier scaling by transaction volume) | 30-day evaluation trial available for Blaze Advisor upon sales qualification; free Community License for Xpress Optimization (max 5,000 variables) |
+| **[Decisions](https://decisions.com/)** | No-code workflow, automation, and business rules engine featuring visual decision tables, flow designer, and process mining. | Starting at $483/month ($5,800/year entry tier; core enterprise platform typically starts at $2,500/month billed annually) | 14-day guided free trial; includes dedicated cloud sandbox instance, sample pre-loaded apps, and 30-min onboarding kickoff |
+| **[Peak AI](https://peak.ai/)** | AI decision intelligence platform for commercial teams covering demand forecasting, pricing, and inventory optimization. | Essentials tier starting at ~$3,500/month ($42,000/year billed annually based on connected SKU models and data connectors) | No free tier or self-service trial; guided customized proof-of-concept available upon qualification |
+| **[Aera Technology](https://www.aera.io/)** | Cognitive automation for enterprise decisions providing autonomous execution across supply chains, finance, and operations. | Starting at $500/user/month (typically requiring a 10-user minimum / $5,000/month plus deployment integration fees) | No free tier or self-serve trial; live custom pilot demonstration provided upon enterprise engagement |
+| **[Progress Corticon](https://www.progress.com/corticon)** | Business rules management system (BRMS) with visual decision modeling, testing, and real-time DMN execution. | Starting at ~$1,200/month ($14,400/year base server deployment tier, billed annually) | 90-day free evaluation trial via `CcLicense.jar`; includes Corticon Studio and Corticon Server with full modeling capabilities |
+| **[causaLens](https://causalens.com/)** | Causal AI platform for enterprise decision intelligence featuring causal discovery, counterfactual reasoning, and decision engines. | Enterprise packages starting at ~$4,166/month ($50,000/year annual contract tier via AWS Marketplace or direct sales) | No self-service free tier; guided pilot trial and interactive cloud sandbox access provided upon qualified sales consultation |
 
 
 

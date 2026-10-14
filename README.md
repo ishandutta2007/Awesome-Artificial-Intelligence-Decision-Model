@@ -31,6 +31,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -38,6 +40,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Decision Intelligence and AI decision automation market is valued at approximately **$16B–$21B** (projected to reach $50B+ by the early 2030s with a 15–25% CAGR). The market structure is **moderately fragmented**—anchored by established enterprise giants (such as FICO, Pega, IBM, and Microsoft) for core mission-critical workflows, yet driven by an influx of innovative startups and open-source ecosystems specializing in agentic AI decision layers and causal ML rather than a single winner-take-all monopoly.
 
 
 

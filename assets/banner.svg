@@ -135,7 +135,7 @@
 
   <!-- SUBTITLE (Clear and readable) -->
   <g transform="translate(600, 172)" text-anchor="middle">
-    <text class="text-subtitle">Business Rules &bull; Causal Machine Learning &bull; Autonomous Agent Decisioning</text>
+    <text class="text-subtitle">Business Rules &#8226; Causal Machine Learning &#8226; Autonomous Agent Decisioning</text>
   </g>
 
   <!-- DYNAMIC INTERACTIVE-STYLE PILLS / METRIC CARDS (Foreground Bottom) -->
